@@ -4,7 +4,7 @@
 
 ## 🎵 Canlı Demo
 
-[Projeyi Görüntüle](https://github-username.github.io/JavascriptDrumKit)
+[Projeyi Görüntüle](https://mhmtfthunal.github.io/JavascriptDrumKit)
 
 > **Not:** GitHub Pages'i aktifleştirmek için:
 > 1. Repository ayarlarına gidin (Settings)
